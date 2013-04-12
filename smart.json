@@ -3,7 +3,7 @@
   "description": "Bootstrap tour packaged for meteor.",
   "homepage": "http://bootstraptour.com/",
   "author": "Christian Stewart <kidovate@gmail.com>",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "git": "https://github.com/kidovate/meteor-bootstrap-tour.git",
   "packages": {}
 }
