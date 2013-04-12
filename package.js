@@ -1,10 +1,9 @@
 Package.describe({
-  summary: "AwsSum (Amazon Web Services API lib) repackaged for Meteor"
+  summary: "Quick and easy way to build your product tours with Twitter Bootstrap Popovers."
 });
 
 Package.on_use(function (api) {
-  api.use('node-modules', 'server');
-  api.use('underscore-string', 'server');
-  
-  api.add_files('server.js', 'server');
+  api.use('jquery', 'client');
+  api.use('bootstrap', 'client');
+  api.add_files(['lib/bootstrap_tour.css', 'lib/bootstrap-tour.js'], 'client');
 });

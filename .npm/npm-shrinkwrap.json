@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "awssum": {
+      "version": "1.0.0-beta",
+      "from": "awssum@1.0.0-beta",
+      "resolved": "https://registry.npmjs.org/awssum/-/awssum-1.0.0-beta.tgz",
+      "dependencies": {
+        "underscore": {
+          "version": "1.4.4",
+          "from": "underscore@1.4.x"
+        },
+        "xml2js": {
+          "version": "0.2.6",
+          "from": "xml2js@0.2.x",
+          "dependencies": {
+            "sax": {
+              "version": "0.4.2",
+              "from": "sax@0.4.2"
+            }
+          }
+        }
+      }
+    },
+    "awssum-amazon": {
+      "version": "1.0.2",
+      "from": "awssum-amazon@1.0.2",
+      "resolved": "https://registry.npmjs.org/awssum-amazon/-/awssum-amazon-1.0.2.tgz",
+      "dependencies": {
+        "underscore": {
+          "version": "1.4.4",
+          "from": "underscore@1.4.x"
+        },
+        "dateformat": {
+          "version": "1.0.4-1.2.3",
+          "from": "dateformat@1.0.4-1.2.3"
+        }
+      }
+    },
+    "awssum-amazon-s3": {
+      "version": "1.2.4",
+      "from": "awssum-amazon-s3@1.2.4",
+      "dependencies": {
+        "data2xml": {
+          "version": "0.8.0",
+          "from": "data2xml@0.8.x"
+        },
+        "underscore": {
+          "version": "1.4.4",
+          "from": "underscore@1.4.x"
+        },
+        "dateformat": {
+          "version": "1.0.4-1.2.3",
+          "from": "dateformat@1.0.4-1.2.3"
+        }
+      }
+    }
+  }
+}

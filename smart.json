@@ -1,12 +1,9 @@
 {
-  "name": "awssum",
-  "description": "AwsSum (Amazon Web Services API lib) repackaged for Meteor",
-  "homepage": "https://github.com/possibilities/meteor-awssum",
-  "author": "Mike Bannister <notimpossiblemike@gmail.com> (http://po.ssibiliti.es)",
-  "version": "0.0.3",
-  "git": "https://github.com/possibilities/meteor-awssum.git",
-  "packages": {
-    "underscore-string": "2.2.0rc.1",
-    "node-modules": "0.0.2"
-  }
+  "name": "tour",
+  "description": "Bootstrap tour packaged for meteor.",
+  "homepage": "http://bootstraptour.com/",
+  "author": "Christian Stewart <kidovate@gmail.com>",
+  "version": "0.3.0",
+  "git": "https://github.com/kidovate/meteor-bootstrap-tour.git",
+  "packages": {}
 }
