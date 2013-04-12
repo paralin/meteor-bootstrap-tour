@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8db69a6f-bfcb-46c0-a151-068c01ebe4ac" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.js" afterPath="$PROJECT_DIR$/package.js" />
     </list>
     <ignored path="meteor-awssum.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,19 +22,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="package.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="package.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="10" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
+            <state line="7" column="32" selection-start="246" selection-end="246" vertical-scroll-proportion="0.17529215">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="17" selection-start="416" selection-end="416" vertical-scroll-proportion="0.30050084">
+            <state line="12" column="17" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -64,9 +63,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/server.js" />
-        <option value="$PROJECT_DIR$/package.js" />
         <option value="$PROJECT_DIR$/smart.json" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.js" />
       </list>
     </option>
   </component>
@@ -297,16 +296,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.js">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="10" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
+        <state line="12" column="17" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/package.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="17" selection-start="416" selection-end="416" vertical-scroll-proportion="0.30050084">
+        <state line="7" column="32" selection-start="246" selection-end="246" vertical-scroll-proportion="0.17529215">
           <folding />
         </state>
       </provider>

@@ -5,5 +5,5 @@ Package.describe({
 Package.on_use(function (api) {
   api.use('jquery', 'client');
   api.use('bootstrap', 'client');
-  api.add_files(['lib/bootstrap_tour.css', 'lib/bootstrap-tour.js'], 'client');
+  api.add_files(['lib/bootstrap-tour.css', 'lib/bootstrap-tour.js'], 'client');
 });
